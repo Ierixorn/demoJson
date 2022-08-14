@@ -1,14 +1,51 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "news": [{ 
+    "image": "https://images.unsplash.com/photo-1657299170237-2d4cd59b5156?ixlib=rb-1.2.1&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "title": "Bridge", 
+    "declaration": "How to increase yourproductivity with a Music",
+    "text": "Sed ut perspiciatis unde omnis istenatus error sit voluptatem santiumdoloremque laudantium, totam remsed ut perspiciatis unde omnis istenatus error sit voluptatemaccusantium dolo…",
+    "author": "Posted by Eugenia, on July  24, 2019"
+  },
+  { 
+    "image": "https://images.unsplash.com/photo-1657299143228-f971e4887268?ixlib=rb-1.2.1&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1067&q=80",
+    "title": "Bridge", 
+    "declaration": "How to increase yourproductivity with a Music",
+    "text": "Sed ut perspiciatis unde omnis istenatus error sit voluptatem santiumdoloremque laudantium, totam remsed ut perspiciatis unde omnis istenatus error sit voluptatemaccusantium dolo…",
+    "author": "Posted by Eugenia, on July  24, 2019"
+  },
+  { 
+    "image": "https://images.unsplash.com/photo-1660476264680-89ffe34e3f99?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "title": "Bridge", 
+    "declaration": "How to increase yourproductivity with a Music",
+    "text": "Sed ut perspiciatis unde omnis istenatus error sit voluptatem santiumdoloremque laudantium, totam remsed ut perspiciatis unde omnis istenatus error sit voluptatemaccusantium dolo…",
+    "author": "Posted by Eugenia, on July  24, 2019"
+  },
+  { 
+    "image": "https://images.unsplash.com/photo-1660463529885-581a0d057c76?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80",
+    "title": "Bridge", 
+    "declaration": "How to increase yourproductivity with a Music",
+    "text": "Sed ut perspiciatis unde omnis istenatus error sit voluptatem santiumdoloremque laudantium, totam remsed ut perspiciatis unde omnis istenatus error sit voluptatemaccusantium dolo…",
+    "author": "Posted by Eugenia, on July  24, 2019"
+  },
+  { 
+    "image": "https://images.unsplash.com/photo-1660463972009-6e108089b15b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "title": "Bridge", 
+    "declaration": "How to increase yourproductivity with a Music",
+    "text": "Sed ut perspiciatis unde omnis istenatus error sit voluptatem santiumdoloremque laudantium, totam remsed ut perspiciatis unde omnis istenatus error sit voluptatemaccusantium dolo…",
+    "author": "Posted by Eugenia, on July  24, 2019"
+  },
+  { 
+    "image": "https://images.unsplash.com/photo-1660404871825-6172f096ebfd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "title": "Bridge", 
+    "declaration": "How to increase yourproductivity with a Music",
+    "text": "Sed ut perspiciatis unde omnis istenatus error sit voluptatem santiumdoloremque laudantium, totam remsed ut perspiciatis unde omnis istenatus error sit voluptatemaccusantium dolo…",
+    "author": "Posted by Eugenia, on July  24, 2019"
+  },
+  { 
+    "image": "https://images.unsplash.com/photo-1660404871825-6172f096ebfd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "title": "Bridge", 
+    "declaration": "How to increase yourproductivity with a Music",
+    "text": "Sed ut perspiciatis unde omnis istenatus error sit voluptatem santiumdoloremque laudantium, totam remsed ut perspiciatis unde omnis istenatus error sit voluptatemaccusantium dolo…",
+    "author": "Posted by Eugenia, on July  24, 2019"
+  }]
 }
